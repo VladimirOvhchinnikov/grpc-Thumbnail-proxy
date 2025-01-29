@@ -1,0 +1,5 @@
+{"level":"info","timestamp":"2025-01-29T15:39:33.595+0300","caller":"logger/logger.go:56","msg":"Database successfully initialized"}
+{"level":"info","timestamp":"2025-01-29T15:39:33.595+0300","caller":"logger/logger.go:56","msg":"Creating new instance of GRPC server"}
+{"level":"info","timestamp":"2025-01-29T15:39:33.595+0300","caller":"logger/logger.go:56","msg":"Initializing listener on port%!(EXTRA zapcore.Field={port 15 0 :50051 <nil>})"}
+{"level":"error","timestamp":"2025-01-29T15:39:33.595+0300","caller":"logger/logger.go:66","msg":"Failed to create listener%!(EXTRA zapcore.Field={error 26 0  listen tcp :50051: bind: address already in use})"}
+{"level":"error","timestamp":"2025-01-29T15:39:33.595+0300","caller":"logger/logger.go:66","msg":"Error starting gRPC server%!(EXTRA zapcore.Field={error 26 0  listen tcp :50051: bind: address already in use})"}

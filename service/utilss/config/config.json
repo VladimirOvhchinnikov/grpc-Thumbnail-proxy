@@ -1,0 +1,12 @@
+{
+    "logFilePath": "log/app.log",
+    "database": {
+      "dataSourceName": "test.sqlite"
+    },
+    "youtubeClient": {
+      "baseUrl": "http://88.218.51.120:8000",
+      "clientId": "PgHNUs",
+      "clientSecret": "aTgwfH"
+    },
+    "grpcServerAddress": ":50051"
+  }

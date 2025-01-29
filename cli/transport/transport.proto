@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+package transport;
+
+// Опция для корректной генерации Go-кода
+option go_package = "./;transport";
+
+// Определение сервиса
+service TransportService {
+  // RPC метод для отправки данных на сервер
+  rpc SendData(SendDataRequest) returns (SendDataResponse);
+}
+
+// Определение структуры запроса
+message SendDataRequest {
+  bool flag = 1;               // Булевый флаг
+  repeated string links = 2;   // Массив строк
+}
+
+// Определение структуры ответа
+message SendDataResponse {
+  string status = 1;           // Статус ответа (например, "успешно" или "ошибка")
+  repeated bytes images = 2;   // Срез байтов для картинок
+}

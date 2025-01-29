@@ -1,0 +1,27 @@
+{"level":"info","timestamp":"2025-01-29T15:40:56.226+0300","caller":"utils/logger.go:66","msg":"Command line parser initialized"}
+{"level":"info","timestamp":"2025-01-29T15:40:56.226+0300","caller":"utils/logger.go:66","msg":"Successfully parsed command line flags and arguments"}
+{"level":"info","timestamp":"2025-01-29T15:40:56.226+0300","caller":"utils/logger.go:66","msg":"Command line parsing completed successfully"}
+{"level":"info","timestamp":"2025-01-29T15:40:56.226+0300","caller":"utils/logger.go:66","msg":"Client created successfully"}
+{"level":"info","timestamp":"2025-01-29T15:40:56.232+0300","caller":"utils/logger.go:66","msg":"Коннект прошел успешно"}
+{"level":"info","timestamp":"2025-01-29T15:40:56.232+0300","caller":"utils/logger.go:66","msg":"Starting data transmission to server"}
+{"level":"info","timestamp":"2025-01-29T15:40:57.005+0300","caller":"utils/logger.go:66","msg":"Data sent successfully"}
+{"level":"info","timestamp":"2025-01-29T15:40:57.006+0300","caller":"utils/logger.go:66","msg":"Соединение закрыто"}
+{"level":"info","timestamp":"2025-01-29T15:40:57.006+0300","caller":"utils/logger.go:66","msg":"Connection closed successfully"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.552+0300","caller":"utils/logger.go:66","msg":"Command line parser initialized"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.552+0300","caller":"utils/logger.go:66","msg":"Successfully parsed command line flags and arguments"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.552+0300","caller":"utils/logger.go:66","msg":"Command line parsing completed successfully"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.552+0300","caller":"utils/logger.go:66","msg":"Client created successfully"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.553+0300","caller":"utils/logger.go:66","msg":"Коннект прошел успешно"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.554+0300","caller":"utils/logger.go:66","msg":"Starting data transmission to server"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.558+0300","caller":"utils/logger.go:66","msg":"Data sent successfully"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.558+0300","caller":"utils/logger.go:66","msg":"Соединение закрыто"}
+{"level":"info","timestamp":"2025-01-29T15:42:38.558+0300","caller":"utils/logger.go:66","msg":"Connection closed successfully"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.848+0300","caller":"utils/logger.go:66","msg":"Command line parser initialized"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.848+0300","caller":"utils/logger.go:66","msg":"Successfully parsed command line flags and arguments"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.848+0300","caller":"utils/logger.go:66","msg":"Command line parsing completed successfully"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.848+0300","caller":"utils/logger.go:66","msg":"Client created successfully"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.849+0300","caller":"utils/logger.go:66","msg":"Коннект прошел успешно"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.849+0300","caller":"utils/logger.go:66","msg":"Starting data transmission to server"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.854+0300","caller":"utils/logger.go:66","msg":"Data sent successfully"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.854+0300","caller":"utils/logger.go:66","msg":"Соединение закрыто"}
+{"level":"info","timestamp":"2025-01-29T15:43:38.854+0300","caller":"utils/logger.go:66","msg":"Connection closed successfully"}

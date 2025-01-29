@@ -1,0 +1,4 @@
+{
+    "logFilePath": "log/app.log",
+    "grpcServerAddress": "localhost:50051"
+  }
